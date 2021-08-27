@@ -1,6 +1,6 @@
 
-<h1 align="center"> 👋 Hello my name is Adrian Duran</h1>
-<h1 align="center"> I am a FullStack Developer </h1>
+<h1 align="center"> 👋 Hello my name is Adrian Duran, I am a FullStack Developer</h1>
+
 
 Since quarantine i have decided to take an important turn and dedicate myself to programming, since I like to create useful things for people and that last over time.
 
