@@ -1,9 +1,15 @@
 
 <h1 align="center"> 👋 Hello my name is Adrian Duran</h1>
 
+I was born in Venezuela
 
-Since quarantine i have decided to take an important turn and dedicate myself to programming, since I like to create useful things for people and that last over time.
+Based in Santa Cruz de Tenerife, Canary Islands
 
+Since quarantine i have decided to take an important turn and dedicate myself to programming.
+
+## GitHub stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Adgomez94&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 ## My Knowledge
 
 #### Languages:
