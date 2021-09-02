@@ -1,15 +1,12 @@
 
-<h1 align="center"> 👋 Hello my name is Adrian Duran</h1>
+<h1 align="center"> Full-Stack Developer</h1>
 
-I was born in Venezuela
+My name is Adrian, born and bred in Venezuela
 
 Based in Santa Cruz de Tenerife, Canary Islands
 
 Since quarantine i have decided to take an important turn and dedicate myself to programming.
 
-## GitHub stats:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Adgomez94&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 ## My Knowledge
 
 #### Languages:
@@ -42,4 +39,8 @@ Since quarantine i have decided to take an important turn and dedicate myself to
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## GitHub stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Adgomez94&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 
