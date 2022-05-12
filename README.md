@@ -40,6 +40,9 @@ Since quarantine i have decided to take an important turn and dedicate myself to
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+#### Others
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Adgomez94&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
