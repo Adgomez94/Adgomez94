@@ -1,5 +1,5 @@
 
-<h1 align="center"> Full-Stack Developer</h1>
+<h1 align="center"> Full-Stack Developer JR</h1>
 
 My name is Adrian, born and bred in Venezuela
 
